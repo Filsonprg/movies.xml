@@ -5,11 +5,13 @@
             <genre id="2" name="sci-fi">
             <genre id="3" name="adventurous">
         <genres>
+        <country id="1" name="USA">
     </movie>
     <movie id="2" name="Pirates of the Caribbean: The Curse of the Black Pearl" year="2003">
         <genres>
             <genre id="4" name="fantasy">
             <genre id="5" name="comedy">
         <genres>
+        <country id="1" name="USA">
     </movie>
 </movies>
