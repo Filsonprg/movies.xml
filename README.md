@@ -35,3 +35,9 @@ Kódováno v UTF-8
 - Atributy:
     - `id`: identifikátor
     - `name`: název žánru
+### `<country>`
+- Atribut země kde byl film natočen
+- podkategorie `<movies>`
+- Atributy:
+    - `id`: identifikátor
+    - `name`: název země
