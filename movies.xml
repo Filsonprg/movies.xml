@@ -1,0 +1,15 @@
+<movies>
+    <movie id="1" name="Spider-Man: Homecoming" year="2017">
+        <genres>
+            <genre id="1" name="action">
+            <genre id="2" name="sci-fi">
+            <genre id="3" name="adventurous">
+        <genres>
+    </movie>
+    <movie id="2" name="Pirates of the Caribbean: The Curse of the Black Pearl" year="2003">
+        <genres>
+            <genre id="4" name="fantasy">
+            <genre id="5" name="comedy">
+        <genres>
+    </movie>
+</movies>
