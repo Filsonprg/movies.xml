@@ -10,7 +10,7 @@ Kódováno v UTF-8
 
 ## Příklad
 
-[demo příklad](movies.XML)
+[demo příklad](https://github.com/Filsonprg/movies.xml/blob/5f444838ebea6771b40a1b22266eb59d990442d8/movies.xml)
 # Help
 
 ### `<movies>`
